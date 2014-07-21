@@ -1,6 +1,6 @@
 # Git Training
 
-By Evan Coury & Justin Martin
+By Evonne Cerry & Justin Martin
 
 
 ## Yeah
