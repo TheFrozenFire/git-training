@@ -1,3 +1,3 @@
 # Git Training
 
-By Evan Coury
+By Evan Coury & Jusin Martin
